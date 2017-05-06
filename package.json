@@ -1,0 +1,27 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "\"build a bot in Node.js on Microsoft Bot Framework.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakysujit/MyFirstBot.git"
+  },
+  "keywords": [
+    "bot",
+    "slack"
+  ],
+  "author": "sujit kaky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakysujit/MyFirstBot/issues"
+  },
+  "homepage": "https://github.com/kakysujit/MyFirstBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
